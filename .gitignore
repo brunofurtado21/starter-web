@@ -1,3 +1,4 @@
 ignore.txt
 ignored.txt
 log/
+*.tq
